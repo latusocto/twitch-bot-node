@@ -13,7 +13,7 @@ var options = {
   },
 
   identity: {
-    username: "enter your bots twitch username here",
+    username: rubysapphirebot,
     password: "enter your authkey here"
   },
   channels: ["enter channel or channels here, use commas to seperate channels."]
